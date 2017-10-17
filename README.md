@@ -1,5 +1,6 @@
 # python_idioms
-This repo is created to collect Python idioms that solves problem precisely and concisely. These idioms are collected from the internet and I put them together in a form a notebook for visualization.
+This repo is created to collect Python idioms that solves problem precisely and concisely. These idioms are collected from the internet and I put them together in a form a notebook for visualization. Materials here are especially credited to David Goodger's website (Code Like a Pythonista: Idiomatic Python):<br>
+http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html#id18
 
 Here are the principles (https://en.wikipedia.org/wiki/Zen_of_Python):
 
@@ -26,6 +27,4 @@ If the implementation is easy to explain, it may be a good idea.<br>
 Namespaces are one honking great idea—let's do more of those! <br>
 —Tim Peters
 
-Materials are credited to David Goodger's website (Code Like a Pythonista: Idiomatic Python):<br>
-http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html#id18
 
