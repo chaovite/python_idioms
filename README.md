@@ -1,7 +1,7 @@
 # python_idioms
 This repo is created to collect Python idioms that solves problem precisely and concisely. These idioms are collected from the internet and I will append references as the collection increases in size. Here are the principles (https://en.wikipedia.org/wiki/Zen_of_Python):
 
-<b>The Zen of Python <b> <br>
+<b>The Zen of Python <br>
   
 Beautiful is better than ugly.<br>
 Explicit is better than implicit.<br>
